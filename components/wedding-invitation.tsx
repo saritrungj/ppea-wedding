@@ -6,8 +6,8 @@ import { FormEvent, useEffect, useMemo, useRef, useState } from "react";
 import type { Dictionary, Locale, RSVPForm } from "@/lib/types";
 
 const heroImages = [
-  "https://images.unsplash.com/photo-1519225421980-715cb0215aed?auto=format&fit=crop&w=1800&q=85",
-  "https://images.unsplash.com/photo-1511285560929-80b456fea0bc?auto=format&fit=crop&w=1800&q=85"
+   "/images/22.jpg",
+   "/images/22.jpg"
 ];
 
 const galleryImages = [
