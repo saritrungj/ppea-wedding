@@ -3,7 +3,7 @@ import "./globals.css";
 import { Providers } from "@/components/providers";
 
 export const metadata: Metadata = {
-  title: "Pattree & Supatpong | E-Wedding Card",
+  title: "Paattree & Supatpong | E-Wedding Card",
   description: "Wedding invitation for Pattree and Supatpong, 19 July 2026.",
   metadataBase: new URL("https://example.com"),
   openGraph: {
