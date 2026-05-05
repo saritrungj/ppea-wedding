@@ -22,7 +22,7 @@ const colorSwatches = [
   "linear-gradient(135deg, #f88379, #fac898)",
   "#dcae96",
   "#f4c2c2",
-  "#AFD7F6"
+  "#fff5f1"
 ];
 
 const initialForm: RSVPForm = {
