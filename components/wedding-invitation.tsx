@@ -13,6 +13,7 @@ const heroImages = [
 const galleryImages = [
   "/images/24.jpg",
   "/images/70.jpg",
+  "/images/69.jpg",
   "/images/89.jpg"
 
 ];
