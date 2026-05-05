@@ -14,6 +14,8 @@ const galleryImages = [
   "/images/24.jpg",
   "/images/70.jpg",
   "/images/69.jpg",
+  "/images/41.jpg",
+  "/images/55.jpg",
   "/images/89.jpg"
 
 ];
