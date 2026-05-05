@@ -3,7 +3,7 @@ import "./globals.css";
 import { Providers } from "@/components/providers";
 
 export const metadata: Metadata = {
-  title: "Paattree & Supatpong | E-Wedding Card",
+  title: "Pattree & Supatpong | E-Wedding Card",
   description: "Wedding invitation for Pattree and Supatpong, 19 July 2026.",
   metadataBase: new URL("https://example.com"),
   openGraph: {
@@ -11,7 +11,8 @@ export const metadata: Metadata = {
     description: "The celebration of love, 19 July 2026.",
     images: [
       {
-        url: "https://images.unsplash.com/photo-1519225421980-715cb0215aed?auto=format&fit=crop&w=1600&q=80",
+       
+        url: "https://wedding-sandy-eight.vercel.app/images/55.jpg",
         width: 1600,
         height: 1067
       }
