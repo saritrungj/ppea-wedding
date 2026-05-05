@@ -19,7 +19,7 @@ const galleryImages = [
 ];
 
 const colorSwatches = [
-  "linear-gradient(135deg, #f88379, #fac898)",
+  "linear-gradient(135deg, #f88379, #AFD7F6)",
   "#DAB9D6",
   "#f4c2c2",
   "#FFEAD9"
