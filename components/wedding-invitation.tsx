@@ -7,7 +7,7 @@ import type { Dictionary, Locale, RSVPForm } from "@/lib/types";
 
 const heroImages = [
    "/images/01.jpg",
-   "/images/22.jpg"
+   "/images/02.jpg"
 ];
 
 const galleryImages = [
