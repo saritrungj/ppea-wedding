@@ -6,7 +6,7 @@ import { FormEvent, useEffect, useMemo, useRef, useState } from "react";
 import type { Dictionary, Locale, RSVPForm } from "@/lib/types";
 
 const heroImages = [
-   "/images/22.jpg",
+   "/images/03.png",
    "/images/22.jpg"
 ];
 
