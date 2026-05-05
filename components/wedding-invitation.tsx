@@ -11,8 +11,8 @@ const heroImages = [
 ];
 
 const galleryImages = [
-  "https://images.unsplash.com/photo-1519741497674-611481863552?auto=format&fit=crop&w=1200&q=82",
-  "https://images.unsplash.com/photo-1522673607200-164d1b6ce486?auto=format&fit=crop&w=1200&q=82",
+  "/images/24.jpg",
+  "/images/70.jpg",
   "/images/89.jpg"
 ];
 
