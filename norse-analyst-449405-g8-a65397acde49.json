@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "norse-analyst-449405-g8",
+  "private_key_id": "a65397acde498d476d5446587f18d49dc8feac20",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDT9YuVQUNJACPF\nyXXsuz+XE501im+FCjm8nn5qmf6CqMUyOfNH27zo4L6VXZbvq2xDqZYGJ8K64WwX\nJdpyNap3MgRThSf0NY5ATpMT8u0ks9MbBEVsDEw5Acz9UZtUYm6nNAtujkz9HAxW\nYMnD6mtfduyeFqx4bAbQqglslct++8LgywDImG2oKx958GWD5w0sobG4RmWbUs2Q\n2reyW/fh7+SLJsVyhnYtBW1+VfMGj1I665ld85j741r+LDrx9GtQZECwB5Mikgf6\n9w4ZDI8q2LlC/TM0OZAL42bXpwaVL0hcSbcQHB8QtTnA5QmmxhZZ+Dy2/QlL1CvZ\nzXsl9bPFAgMBAAECggEAHOjdCrS902diObAmdi08+WNquhqBZu0z3krk1a/e053m\n1ZirWrX5IG9E91TuSQ7Bw8HN7VV/fSNRbZ/TWWgB8eN/zQ94mVmzpwhAjcRAvZSM\nWt88g8XyoITjG3sFu174ljQmSgQ9Mnmgoiht5Juk3P64u8A+cmdTj6LdibKtsIox\nKVdzuj+flgpespooQQElPIP/3wKGoKnAf/zdJm15+o+olV9gFbdwPRGVQJ+obPHH\nAAtxVXNX/B8fRJxjAB0vVtyXHNx1Tx3WwDePODD1j2b+MDwMHHUuCBkJDBzKMMIg\nXs48TGMn08qKvVbsSmLi00T8/0CKddnNcy8LhzMkOQKBgQDpn+yuIapV01uDOCXO\njR6o+QYLdaZFmqGzkG1lVw6naGVYr8Ubu98W7SmCIC1TqjXDM2o2RWhn1xWnGuth\nfihxhc+jwH34ZyH/2mHl/3aW3pE9ghCnpzuYhYh/kxsi535x/jnvZIReflAUMJQV\nXwHUXxxW8t3Kv+FpdY57P5cOLQKBgQDoQms70EhKUVm3ghVtrtJ3L1Oq7Z6jlK6T\nnnSp65cxNr4+TPsMo2omSvDAo55sAeh6Ui1QBm5wneFnDlRiq6yLnx9Qa35mzLtH\nPVlhh2t2QCnLzvNWSd/jgyVDz8RZr4ATP92WJjpRPrxz8iTCjbaTjf3oAeVjAfao\n9dHvVQjS+QKBgQDY+Fa2TbvFI5rs3ft2vecIpOWxRN1b7UVZ37tJj7WjUjg1SmCz\n5iJFR5LyL/IIrp5poFl297UEI2QPoteR3rmu3Mg/W2lihl20IVwkX8ICUcfvqNjQ\n62ZUu0dOvA9KtlXfhmzF4MNygrraVVdiFa88Teyi78F+KAAvkib2XdNrLQKBgAEQ\nLMV9Updkf/CjG84Aut3ozY0+wTcmexYZ55bPiUWkZoKKf6uzI81BEpEPLq5348SL\nk8GGBgNl9Z4vJpu9BXEuLUqE83MtBL5yvXIA2LEV4hsYu2xtsiSseQMydEek0gVE\niZMiYan1i49MUHbDh05tm/fv6kjlvWdQmMFrtjqhAoGAek/dLQFi5qfWM65KEjvy\nt1C5eJQMCBTVKxCoHQngSZfb6+blYy/+Xq9bYCO/doosMKtc9g66vnYYS4d9BN+M\nQTL1m/F0PeSw00wKed7ndhmu5ZS1f0htJCJe9h9J0XaBWjtx2ejttOZiNJMedLTn\nGKJfKDjw4I2QNmNFqXiAJXU=\n-----END PRIVATE KEY-----\n",
+  "client_email": "attendance-wedding@norse-analyst-449405-g8.iam.gserviceaccount.com",
+  "client_id": "112934005114315124305",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/attendance-wedding%40norse-analyst-449405-g8.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}

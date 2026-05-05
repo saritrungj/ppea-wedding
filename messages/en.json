@@ -1,0 +1,106 @@
+{
+  "meta": {
+    "localeName": "English"
+  },
+  "controls": {
+    "language": "Language",
+    "theme": "Theme",
+    "light": "Light",
+    "dark": "Dark",
+    "musicPlay": "Play music",
+    "musicPause": "Pause music",
+    "close": "Close"
+  },
+  "hero": {
+    "eyebrow": "THE CELEBRATION OF LOVE",
+    "names": "Pattree & Supatpong",
+    "date": "Sunday, 19 July 2026",
+    "scroll": "Response to Invitation & Event Details"
+  },
+  "story": {
+    "title": "The Love Story",
+    "quote": "Love is a beautiful journey, made extraordinary when we walk beside one another.",
+    "body": "With joyful hearts, we invite you to witness and celebrate the beginning of our married life."
+  },
+  "itinerary": {
+    "title": "Wedding Itinerary",
+    "items": [
+      {
+        "time": "07:09",
+        "label": "Monk blessing ceremony"
+      },
+      {
+        "time": "08:29",
+        "label": "Khan Mak procession"
+      },
+      {
+        "time": "10:09",
+        "label": "Water blessing ceremony"
+      },
+      {
+        "time": "11:30",
+        "label": "Wedding luncheon"
+      }
+    ]
+  },
+  "dress": {
+    "title": "Dress Code",
+    "subtitle": "Shades of Love, Shades of Pink",
+    "note": "Rose, blush, champagne, and soft cream tones are warmly welcomed.",
+    "colors": ["Rose Gold", "Dusty Rose", "Pastel Pink", "Cream Pink"]
+  },
+  "gallery": {
+    "title": "Gallery",
+    "images": [
+      {
+        "alt": "A romantic wedding bouquet in warm light"
+      },
+      {
+        "alt": "A couple holding hands during a wedding celebration"
+      },
+      {
+        "alt": "Elegant wedding table details with florals"
+      }
+    ]
+  },
+  "countdown": {
+    "title": "Counting Down",
+    "complete": "Today is the day.",
+    "labels": {
+      "days": "Days",
+      "hours": "Hours",
+      "mins": "Mins",
+      "secs": "Secs"
+    }
+  },
+  "rsvp": {
+    "title": "Response to Invitation",
+    "intro": "Kindly let us know if you will join our celebration.",
+    "name": "Full name",
+    "namePlaceholder": "Your name",
+    "attendance": "Will you attend?",
+    "yes": "Joyfully attending",
+    "no": "Sending love from afar",
+    "guestCount": "Number of guests",
+    "mealNote": "Meal note",
+    "mealPlaceholder": "Allergy, vegetarian request, or other note",
+    "phone": "Phone number",
+    "phonePlaceholder": "Best contact number",
+    "message": "Blessing message",
+    "messagePlaceholder": "Leave a short wish for the couple",
+    "submit": "Send Response to Invitation",
+    "submitting": "Sending...",
+    "success": "Thank you. Your Response to Invitation has been recorded.",
+    "error": "We could not send your Response to Invitation. Please try again.",
+    "required": "Please complete your name, attendance, guest count, and phone number."
+  },
+  "venue": {
+    "title": "The Venue",
+    "name": "CAFE' IMOUN",
+    "address": "Nakhon Ratchasima, Thailand",
+    "directions": "Get Directions"
+  },
+  "footer": {
+    "text": "Pattree & Supatpong, 19.07.2026"
+  }
+}
