@@ -249,6 +249,7 @@ footer.snap-section {
 
 .hero-image {
   object-fit: cover;
+  object-position: center 25%;
   opacity: 0;
   transform: scale(1.08);
   transition:
@@ -476,6 +477,35 @@ footer.snap-section {
   letter-spacing: 0.12em;
 }
 
+.timeline-body {
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+  min-width: 0;
+}
+
+.timeline-meta {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 0.75rem;
+}
+
+.timeline-icon {
+  position: relative;
+  display: inline-block;
+  width: 3rem;
+  height: 3rem;
+  flex-shrink: 0;
+  border-radius: 0.4rem;
+  overflow: hidden;
+}
+
+.timeline-icon img {
+  object-fit: cover;
+  object-position: center 20%;
+}
+
 .timeline-item::after {
   content: "";
   position: absolute;
@@ -587,6 +617,8 @@ footer.snap-section {
 }
 
 .gallery-card img {
+  object-fit: cover;
+  object-position: center 25%;
   filter: saturate(0.92) brightness(0.9);
   transition:
     transform 700ms ease,

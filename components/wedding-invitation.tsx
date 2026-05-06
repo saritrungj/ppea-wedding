@@ -4,6 +4,10 @@ import Image from "next/image";
 import { useTheme } from "next-themes";
 import { FormEvent, useEffect, useMemo, useRef, useState } from "react";
 import type { Dictionary, Locale, RSVPForm } from "@/lib/types";
+import iconMonk from "@/app/assets/images/22-removebg-preview.png";
+import iconKhanMak from "@/app/assets/images/33-removebg-preview.png";
+import iconWater from "@/app/assets/images/55-removebg-preview.png";
+import iconFood from "@/app/assets/images/11.png";
 
 const heroImages = [
    "/images/01.jpg",
@@ -58,6 +62,21 @@ function hasThaiText(value: string) {
 
 function textClass(value: string, className = "") {
   return [className, hasThaiText(value) ? "thai-text" : ""].filter(Boolean).join(" ");
+}
+
+function getTimelineIcon(index: number) {
+  const icons = [iconMonk, iconKhanMak, iconWater, iconFood];
+  const src = icons[index];
+  if (!src) return null;
+  return (
+    <Image
+      src={src}
+      alt=""
+      fill
+      sizes="48px"
+      style={{ objectFit: "cover", objectPosition: "center 20%" }}
+    />
+  );
 }
 
 function getCountdown(): Countdown {
@@ -366,6 +385,12 @@ export function WeddingInvitation({
             sizes="100vw"
             priority={index === 0}
             className={`hero-image ${activeSlide === index ? "is-active" : ""}`}
+            style={{
+              objectPosition:
+                image === "/images/01.jpg" ? "center 62%" :
+                image === "/images/02.jpg" ? "center 38%" :
+                undefined
+            }}
           />
         ))}
         <div className="hero-veil" aria-hidden="true" />
@@ -393,8 +418,13 @@ export function WeddingInvitation({
               <span className="timeline-dot" aria-hidden="true" />
               <div className="timeline-card">
                 <span className="timeline-number">{String(index + 1).padStart(2, "0")}</span>
-                <div>
-                  <time>{item.time}</time>
+                <div className="timeline-body">
+                  <div className="timeline-meta">
+                    <time>{item.time}</time>
+                    <span className="timeline-icon" aria-hidden="true">
+                      {getTimelineIcon(index)}
+                    </span>
+                  </div>
                   <p className={textClass(item.label)}>{item.label}</p>
                 </div>
               </div>
