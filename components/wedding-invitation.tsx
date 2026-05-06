@@ -15,12 +15,12 @@ const heroImages = [
 ];
 
 const galleryImages = [
-  "/images/24.jpg",
-  "/images/70.jpg",
-  "/images/69.jpg",
-  "/images/41.jpg",
-  "/images/55.jpg",
-  "/images/89.jpg"
+  "/images/bp1.jpg",
+  "/images/bp2.jpg",
+  "/images/bp3.jpg",
+  "/images/bp4.jpg",
+  "/images/bp5.jpg",
+  "/images/bp6.jpg"
 
 ];
 
