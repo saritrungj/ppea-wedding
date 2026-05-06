@@ -466,7 +466,7 @@ export function WeddingInvitation({
                   alt={t.gallery.images[index].alt}
                   fill
                   sizes="(min-width: 1024px) 52vw, (min-width: 640px) 70vw, 86vw"
-                  className="object-cover"
+                  className={`object-cover${image === "/images/89.jpg" ? " gallery-89" : ""}`}
                 />
               </button>
             ))}

@@ -1103,6 +1103,10 @@ footer.snap-section {
   .gallery-card.is-prev {
     transform: translateX(-9%) translateY(1.25rem) rotateY(10deg) rotateZ(-2deg) scale(0.88);
   }
+
+  .gallery-89 {
+    object-position: 65% center !important;
+  }
 }
 
 @media (max-width: 1023px) {
