@@ -20,7 +20,11 @@ const galleryImages = [
   "/images/bp3.jpg",
   "/images/bp4.jpg",
   "/images/bp5.jpg",
-  "/images/bp6.jpg"
+  "/images/bp6.jpg",
+  "/images/bp7.jpg",
+  "/images/bp8.jpg",
+  "/images/bp9.jpg",
+  "/images/bp10.jpg"
 
 ];
 
