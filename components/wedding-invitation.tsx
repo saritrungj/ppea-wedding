@@ -26,8 +26,8 @@ const galleryImages = [
   "/images/bp10.jpg",
   "/images/bp11.jpg",
   "/images/bp12.jpg",
-  "/images/bp13.jpg",
-  "/images/bp14.jpg"
+  "/images/bp13.jpg"
+  
 
 ];
 
