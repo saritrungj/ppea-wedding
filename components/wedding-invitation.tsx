@@ -10,8 +10,8 @@ import iconWater from "@/app/assets/images/55-removebg-preview.png";
 import iconFood from "@/app/assets/images/11.png";
 
 const heroImages = [
-   "/images/01.jpg",
-   "/images/02.jpg"
+   "/images/fi01.jpg",
+   "/images/fi02.jpg"
 ];
 
 const galleryImages = [
