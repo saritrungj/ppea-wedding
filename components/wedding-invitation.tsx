@@ -15,18 +15,19 @@ const heroImages = [
 ];
 
 const galleryImages = [
-  "/images/bp1.jpg",
-  "/images/bp2.jpg",
-  "/images/bp3.jpg",
-  "/images/bp4.jpg",
-  "/images/bp5.jpg",
-  "/images/bp7.jpg",
-  "/images/bp8.jpg",
-  "/images/bp9.jpg",
-  "/images/bp10.jpg",
-  "/images/bp11.jpg",
-  "/images/bp12.jpg",
-  "/images/bp13.jpg"
+ 
+  "/images/fi03.jpg",
+  "/images/fi04.jpg",
+  "/images/fi05.jpg",
+  "/images/fi051.jpg",
+  "/images/fi06.jpg",
+  "/images/fi07.jpg",
+  "/images/fi08.jpg",
+  "/images/fi09.jpg",
+  "/images/fi10.jpg",
+  "/images/fi11.jpg",
+  "/images/fi12.jpg",
+  "/images/fi13.jpg"
   
 
 ];
